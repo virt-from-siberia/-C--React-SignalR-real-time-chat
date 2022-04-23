@@ -23,8 +23,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81cefeab-f66f-413e-8de6-62d712fb6ad7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ChatService/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Новый текстовый документ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChatService/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChatService/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChatService/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChatService/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChatService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChatService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChatService/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChatService/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ChatService/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ChatService/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ChatService/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ChatService/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ChatService/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ChatService/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/Hubs/ChatHub.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/Hubs/ChatHub.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/bin/Debug/net5.0/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/bin/Debug/net5.0/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/bin/Debug/net5.0/ChatService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/bin/Debug/net5.0/ChatService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/bin/Debug/net5.0/ref/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/bin/Debug/net5.0/ref/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/obj/Debug/net5.0/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/obj/Debug/net5.0/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/obj/Debug/net5.0/ChatService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/obj/Debug/net5.0/ChatService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatService/obj/Debug/net5.0/ref/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChatService/obj/Debug/net5.0/ref/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mychatFrontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mychatFrontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mychatFrontend/src/components/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mychatFrontend/src/components/Chat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mychatFrontend/src/components/MessageContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mychatFrontend/src/components/MessageContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +53,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/827F0E4F-42DD-44CA-852B-0CB8F55ED32D/1/SignalRDependencyInjectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DAC1DA3A-4A76-46F1-B29D-0FC6F8E22A87/77/d431167e/IApplicationBuilder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7D36D86E-BDC9-45A8-B46F-E222176293AC/6/EndpointRoutingApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/827F0E4F-42DD-44CA-852B-0CB8F55ED32D/a9/1c8e8d36/02000002pdb.il" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ChatService/Hubs/ChatHub.cs" />
         <option value="$PROJECT_DIR$/ChatService/Startup.cs" />
+        <option value="$PROJECT_DIR$/ChatService/Hubs/ChatHub.cs" />
+        <option value="$PROJECT_DIR$/ChatService/Program.cs" />
       </list>
     </option>
   </component>
@@ -57,6 +71,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ChatService">
@@ -103,7 +118,19 @@
       <workItem from="1650671269396" duration="535000" />
       <workItem from="1650676398726" duration="747000" />
       <workItem from="1650677873509" duration="929000" />
-      <workItem from="1650679927479" duration="311000" />
+      <workItem from="1650679927479" duration="650000" />
+      <workItem from="1650703807194" duration="566000" />
+      <workItem from="1650704722448" duration="2024000" />
+      <workItem from="1650706971005" duration="1812000" />
+      <workItem from="1650708848142" duration="1349000" />
+      <workItem from="1650726325416" duration="555000" />
+      <workItem from="1650726918746" duration="123000" />
+      <workItem from="1650727074938" duration="42000" />
+      <workItem from="1650727230098" duration="109000" />
+      <workItem from="1650727372880" duration="2357000" />
+      <workItem from="1650754799090" duration="16000" />
+      <workItem from="1650754861452" duration="124000" />
+      <workItem from="1650755566235" duration="1591000" />
     </task>
     <servers />
   </component>
@@ -128,21 +155,29 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="286" key="GridCell.Tab.0.bottom" timestamp="1650677325803">
+    <state x="839" y="418" key="#Custom_Plugin_Repositories" timestamp="1650727280934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1650677325803" />
-    <state width="1860" height="286" key="GridCell.Tab.0.center" timestamp="1650677325803">
+    <state x="839" y="418" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1650727280934" />
+    <state width="1877" height="87" key="GridCell.Tab.0.bottom" timestamp="1650757161697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1650677325803" />
-    <state width="1860" height="286" key="GridCell.Tab.0.left" timestamp="1650677325803">
+    <state width="1877" height="87" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1650757161697" />
+    <state width="1877" height="87" key="GridCell.Tab.0.center" timestamp="1650757161697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1650677325803" />
-    <state width="1860" height="286" key="GridCell.Tab.0.right" timestamp="1650677325803">
+    <state width="1877" height="87" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1650757161697" />
+    <state width="1877" height="87" key="GridCell.Tab.0.left" timestamp="1650757161696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1650677325803" />
+    <state width="1877" height="87" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1650757161696" />
+    <state width="1877" height="87" key="GridCell.Tab.0.right" timestamp="1650757161697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="87" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1650757161697" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1650754903706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1650754903706" />
   </component>
 </project>

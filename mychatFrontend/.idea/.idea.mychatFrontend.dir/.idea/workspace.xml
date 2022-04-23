@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4f743e1-b280-49a3-bd00-f2c091faf53d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/.idea/.idea.ChatService/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/.vs/ChatService/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/.vs/ChatService/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/.vs/ChatService/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/.vs/ChatService/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/.vs/ChatService/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/.vs/ChatService/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/Hubs/ChatHub.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/Hubs/ChatHub.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/bin/Debug/net5.0/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/bin/Debug/net5.0/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/bin/Debug/net5.0/ChatService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/bin/Debug/net5.0/ChatService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/bin/Debug/net5.0/ref/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/bin/Debug/net5.0/ref/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/obj/Debug/net5.0/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/obj/Debug/net5.0/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/obj/Debug/net5.0/ChatService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/obj/Debug/net5.0/ChatService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatService/ChatService/obj/Debug/net5.0/ref/ChatService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatService/ChatService/obj/Debug/net5.0/ref/ChatService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chat.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28DdbrpJTUvFOdSwSzzVMvigLtp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f743e1-b280-49a3-bd00-f2c091faf53d" name="Default Changelist" comment="" />
+      <created>1650755168895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650755168895</updated>
+      <workItem from="1650755173436" duration="297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

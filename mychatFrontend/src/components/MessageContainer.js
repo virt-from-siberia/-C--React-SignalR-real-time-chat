@@ -1,6 +1,23 @@
+import React from "react";
+
 export const MessageContainer = ({ messages }) => {
+  const messageRef = React.useRef();
+
+  React.useEffect(() => {
+    if (messageRef && messageRef.current) {
+      const { scrollHeight, clientHeight } =
+        messageRef.current;
+
+      messageRef.current.scrollTo({
+        left: 0,
+        top: scrollHeight - clientHeight,
+        behavior: "smooth",
+      });
+    }
+  }, [messages]);
+
   return (
-    <div className="message-container">
+    <div ref={messageRef} className="message-container">
       {messages.map((m, index) => {
         return (
           <div key={index} className="user-message">
